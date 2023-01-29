@@ -6,7 +6,7 @@ import telebot
 from Game import game
 from Word_Generator import word_generator
 
-bot = telebot.TeleBot('5456176701:AAGoqODnZhL1vb-iuUm7by3xPc0wMTzcZV4')
+bot = telebot.TeleBot('XXXXX')
 random_word = word_generator().replace('\n', '')
 
 
