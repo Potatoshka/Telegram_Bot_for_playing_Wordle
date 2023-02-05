@@ -1,6 +1,3 @@
-
-
-
 def game(word_input, random_word):
     buffer = []
     colors = []
