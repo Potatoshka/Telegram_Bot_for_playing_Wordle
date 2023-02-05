@@ -7,7 +7,7 @@ import re
 from Game import game
 from Word_Generator import word_generator
 
-bot = telebot.TeleBot('xxxx')
+bot = telebot.TeleBot('xxxxx')
 con = sl.connect('words.db', check_same_thread=False)
 cur = con.cursor()
 
